@@ -19,5 +19,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 <h3 align="center">Disclaimer</h3>
 <p align="center">Those are languages/tools I used to work with during university/high-school. I have a <b><mark>VERY BASIC understanding</mark></b> of these languages/tools.so I think I will have a smooth and quick start learning with these languages/tools. 😃</p>
