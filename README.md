@@ -10,7 +10,7 @@
 <p align="center">Those are languages/tools I used to work with during university/high-school. I have a <b><mark>VERY basic understanding</mark></b> of these languages/tools but I am also confident that I will have a quick start with these languages/tools. 😃</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" align="center"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" align="center"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" align="center"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" align="center"/>
 </p>
